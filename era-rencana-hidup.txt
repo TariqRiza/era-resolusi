@@ -2,7 +2,9 @@ RENCANA HIDUP ERA
 - rencana 1
   * 1a
   * 1b
-- rencana 2
+   ^ 1b2
+   ^ 1b3
 - rencana 3
+  ^ 3a
 - rencana 4
 - rencana 5
